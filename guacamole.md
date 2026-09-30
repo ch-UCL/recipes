@@ -4,7 +4,7 @@ I have a lovely backstory for my recipe, it is something probably I have made be
 * 4 Avocados
 * 2 Chillis
 * Salt
-* Pepper
+*  Half a lime
 
 ## Instructions
 1) You will need 4 Avocados chopped finely. 
